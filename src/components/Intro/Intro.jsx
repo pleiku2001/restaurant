@@ -21,7 +21,7 @@ function Intro() {
       </div>
       <div className="relative">
         <video
-          src="/public/videos/video1.mp4"
+          src="/videos/video1.mp4"
           muted
           loop
           className=" object-cover min-h-[100vh] z-0 w-[100%]"
