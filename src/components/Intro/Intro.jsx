@@ -9,7 +9,7 @@ function Intro() {
         <a href="/" className="text-center">
           <img
             className=" w-[100px] h-[100px] fixed translate-x-[-50%] translate-y-[-50%] left-[50%] top-[10%] z-20"
-            src="../../public/svg/logo-no-background.svg"
+            src="/svg/logo-no-background.svg"
             alt=""
           />
         </a>
@@ -21,7 +21,7 @@ function Intro() {
       </div>
       <div className="relative">
         <video
-          src="../../public/videos/video1.mp4"
+          src="/public/videos/video1.mp4"
           muted
           loop
           className=" object-cover min-h-[100vh] z-0 w-[100%]"
